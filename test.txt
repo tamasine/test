@@ -1,0 +1,25 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 66CC-4278
+
+ Directory of C:\Users\IBM_ADMIN\Documents
+
+11/10/2017  03:52 PM    <DIR>          .
+11/10/2017  03:52 PM    <DIR>          ..
+11/07/2017  06:25 PM            93,354 23318903_10155768122045050_1434323704_n.jpg
+10/25/2017  04:58 PM            18,165 bdo mc oct2017.pdf
+05/28/2015  12:48 AM    <DIR>          Bluetooth Exchange Folder
+03/16/2016  05:37 PM    <DIR>          Custom Office Templates
+11/10/2017  03:49 PM    <DIR>          my project
+11/10/2017  11:03 AM            63,785 Nov 2017 MC .pdf
+11/10/2017  11:01 AM            63,870 Nov 2017 visa.pdf
+03/11/2016  02:43 PM    <DIR>          PGP
+10/26/2017  03:08 PM    <DIR>          SametimeFileTransfers
+10/26/2017  03:40 PM    <DIR>          SametimeTranscripts
+11/10/2017  03:52 PM                 0 test.txt
+07/15/2016  03:17 PM    <DIR>          workspace-ggts
+08/04/2017  03:58 PM    <DIR>          Zoom
+               5 File(s)        239,174 bytes
+              10 Dir(s)  100,987,703,296 bytes free
+
+
+test
